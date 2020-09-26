@@ -1,4 +1,4 @@
-clc;
+clc; 
 clear all;
 close all;
 %%%% To get the Input image file
